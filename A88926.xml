@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from the citie of Norwich: of certain passages which happened there on Munday last, relating to the number of the cavaliers which are dispersed in sundry villages neer the citie. Also shewing the resolution of the inhabitants of Northampton-shire, being 4000 men ready arm'd, in the opposition of the cavaliers, who are enemies to the Parliament, and the Protestant religion: also how some Parliament men of Northampton-shire, have in two dayes the last week, taken subscriptions of of [sic] plate and money, to the value of 3000 pounds, and 480 horse brought in by the countrey-men into Northampton. Also a manifestation how the gentrie and traine bands in York-shire do begin to fall away from the King, and many of the lords souldiers by twenties do run away, and many of the princes likewise. With the true relation of the siege of Coventrie, and the joyfull newes from the citizens on Wednesday, in their prosperous proceedings, which God continue: shewing how they tooke three peeces of ordnance from my L. of Northamptons men, and a load of armes the last weeke. Ordered that this be printed. Hen. Elsin. Cler. Par. D. C.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88926</idno>
+            <idno type="STC">Wing M11</idno>
+            <idno type="STC">Thomason E114_15</idno>
+            <idno type="STC">ESTC R11657</idno>
+            <idno type="EEBO-CITATION">99859097</idno>
+            <idno type="PROQUEST">99859097</idno>
+            <idno type="VID">111163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111163)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E114[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from the citie of Norwich: of certain passages which happened there on Munday last, relating to the number of the cavaliers which are dispersed in sundry villages neer the citie. Also shewing the resolution of the inhabitants of Northampton-shire, being 4000 men ready arm'd, in the opposition of the cavaliers, who are enemies to the Parliament, and the Protestant religion: also how some Parliament men of Northampton-shire, have in two dayes the last week, taken subscriptions of of [sic] plate and money, to the value of 3000 pounds, and 480 horse brought in by the countrey-men into Northampton. Also a manifestation how the gentrie and traine bands in York-shire do begin to fall away from the King, and many of the lords souldiers by twenties do run away, and many of the princes likewise. With the true relation of the siege of Coventrie, and the joyfull newes from the citizens on Wednesday, in their prosperous proceedings, which God continue: shewing how they tooke three peeces of ordnance from my L. of Northamptons men, and a load of armes the last weeke. Ordered that this be printed. Hen. Elsin. Cler. Par. D. C.</title>
+                  <author>M. C.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Th. Clapham,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aug. 26. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The dispatch from Norwich is signed on p. 1: C. M.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Northampton, Spencer Compton, --  Earl of, 1601-1643.</term>
+               <term>Coventry (England) --  Siege, 1642 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111163:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>
+               <hi>Newes from the Citie of</hi> NORWICH: OF Certain paſſages which happened there on Munday laſt, relating the number of the Cavaliers which are diſperſed in ſundry Villages neer the Citie.</p>
+            <p>Alſo ſhewing the reſolution of the In<g ref="char:EOLhyphen"/>habitants of Northampton-ſhire, being 4000 men ready arm'd, in the oppoſition of the Cavaliers, who are Enemies to the Parliament, and the Proteſtant Reli<g ref="char:EOLhyphen"/>gion: Alſo how ſome Parliament men of Northampton-ſhire, have in two dayes the laſt week, taken ſubſcriptions of of plate and money, to the value of 3000 pounds, and 480 Horſe brought in by the Countrey-men into Northampton.</p>
+            <p>Alſo a Manifeſtation how the Gentrie and Traine Bands in York-ſhire do begin to fall away from the King, and many of the Lords Souldiers by twenties do run away, and many of the Princes likewiſe.</p>
+            <p>With the true Relation of the ſiege of Coventrie, and the joyfull newes from the Citizens on Wedneſday, in their proſperous proceedings, which God continue: Shewing how they tooke three Peeces of Ordnance from my L. of Northamp<g ref="char:EOLhyphen"/>tons men, and a load of Armes the laſt weeke.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be printed.</p>
+                        <closer>
+                           <signed>Hen. Elſin. Cler. Par. D. C.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Th. Clapham.</hi> Aug. 26.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111163:2"/>
+            <!-- PDF PAGE 110 -->
+            <pb n="1" facs="tcp:111163:2"/>
+            <!-- PDF PAGE 110 -->
+            <head>Newes from the Citie of Norwich.</head>
+            <div type="part">
+               <p>FRom Norwith on Munday laſt it is certified by a Fa<g ref="char:EOLhyphen"/>ctor who liveth there, that there are many Cavaliers ſcattered up and downe, who have plundered many mens houſes living in villages neere unto Norwich, being ſuppoſed to be about 150 Horſe, and 300 Foot; but God be thanked we are above 2000 able armed men with<g ref="char:EOLhyphen"/>in the Citie, and wee doe not doubt but in ſhort time to drive them away; Captaine <hi>Sandly,</hi> Sir <hi>Tho. Owfield,</hi> and Captaine <hi>Ogle</hi> are gone to meet them, to ſtop their pro<g ref="char:EOLhyphen"/>ceedings with 100 Horſe, and 200 Foot; and the whole Countie doth gather Forces together continually, and there are Writs ſent out into everie Hundred, to know the ſtrength of the Countie, which verie ſhortly when it is certainly knowne I will give you intelligence: I doe heare for certaine, that this countie will live and dye in the defence of the Parliament, for the maintenance of the Proteſtant Religion.</p>
+               <closer>
+                  <signed>Yours <hi>C. M.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>From Northampton-ſhire.</head>
+               <p>There are good and proſperous informations brought from Northampton ſhire; for the towne of Northamp<g ref="char:EOLhyphen"/>ton is verie ſtrong having 4000 men in Armes, and 400 Horſe for the defence thereof: and as ſoon as the Earle of
+<pb n="2" facs="tcp:111163:3"/>
+                  <!-- PDF PAGE 111 -->Peterborough comes downe, whom they verie earneſtly do expect, they hope to declare their magnanimitie and fidelitie to the Parliament, for being animated with ſtan<g ref="char:EOLhyphen"/>ding in their defence, they intend with much cheerfull alacritie againſt my Lord of Nor<g ref="char:EOLhyphen"/>thampton and his Cavaliers. Coventrie (whither of late the King is march'd to ſet up his Stand<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd) hath a thouſand men in Armes; that will loſe their lives in repelling any hoſtile violence that ſhall bee offered by the Kings Forces, having taken away a Peece or two of Ordnance, and a load of Armes from my Lord of Northamptons men laſt week. The generall and in<g ref="char:EOLhyphen"/>clinations of this countie doe ſtand right and full of in<g ref="char:EOLhyphen"/>tegrity to the Parliament, ſo that ſome of our Parliament men being come downe, they have ſo well confirmed them in their reſolutions to ſtand for the Parliamen, that by taking ſubſcriptions of plate, money, and horſe, they have found the cheerfull bounty of the County, ſo ample and affectionate, towards them, ſo that in a dayes ſitting they have got to the value of 1000 l worth of plate, and twice ſo much money, and about 2 or 3 hundred horſe, many yeoman men comming in with 10 l and a horſe, and 20 l and a horſe, and the Parliament have ſubſcribed ſo many horſe, and ſo much money in the County as they did in London; the commiſſioners for the Array finding that Northampton is ſo well repleniſhed with men and Armes, doe grow ſomewhat timorous and fearfull to exe<g ref="char:EOLhyphen"/>cute their office, and there is nothing lacking for the de<g ref="char:EOLhyphen"/>fence of the Town, but Ordnance, whereby they might be able to defend the money and plate, gathered and col<g ref="char:EOLhyphen"/>lected by ſubſcription, being a booty that will be much aym'd at to inſtigate the ravenous Cavaliers, who are rea<g ref="char:EOLhyphen"/>dy
+<pb n="3" facs="tcp:111163:3"/>
+                  <!-- PDF PAGE 111 -->to attempt anything eſpecially being drawn on by the temptation of getting and obteyning any conſiderable prize.</p>
+               <p>In this great and generall diſtraction of ſeverall Counties, there is moſt certaine note given by credible information, that there are great ſtore of Troops upon Dunſmore Heath, who do violently take away Armes by night, and thereby ſtrike a great terrour into the Inhabi<g ref="char:EOLhyphen"/>tants: it being alſo for certaine reported, that the King intends to be there on the 24 of this moneth. But though his Majeſtie do thus proſecute his intentions in ſeverall places, the whole adjacent Counties being much per<g ref="char:EOLhyphen"/>plexed by his ſudden determinations, and by the many inſolent and outragious inrodes of the Cavaliers; yet there is a kind of defection, or falling off from the King in York-ſhire, the Gentrie and Trained Bands forſaking and relinquiſhing the matter, as cold and diſcouraged therein; the Lords Troops running away by twenties, and from the Princes Troop the laſt week from Lincolne ten: ſo that now the chiefe Abettors and Supporters of theſe deſignes are the Papiſts, who are much neceſſitated, and I hope will be more hereafter; ſo that though they buy many horſes, yet they are ſuch meane ones, and of low prices, and ſo unſerviceable, that they appeare ra<g ref="char:EOLhyphen"/>ther Carriers jades, than light horſes for the cutting Ca<g ref="char:EOLhyphen"/>valiers, though their number of ſubſcription was verie great.</p>
+               <p>All the Shire are called and ſummoned to appear this week, concerning the Commiſſion of Array, together with the Trained Bands and Free-holders; and it is ge<g ref="char:EOLhyphen"/>nerally exclaimed on, and cried out amongſt the beſt of our people, that Altar-Prieſts have poyſoned the beſt
+<pb n="4" facs="tcp:111163:4"/>
+                  <!-- PDF PAGE 112 -->of the people, which doth not a little take with the worſt. The former informations and relations were ſent up in a Letter to Mr. <hi>Newton</hi> living in the Old Jurie, from his brother dwelling at Coſton in Leiceſter-ſhire: and from another brother of his living at Northampton.</p>
+               <p>The King being highly incenſed, and full of indigna<g ref="char:EOLhyphen"/>tion againſt the City of Coventry, for denying him admittance into the Towne with his whole compa<g ref="char:EOLhyphen"/>ny of Cavaleers, departed much diſcountented, threat<g ref="char:EOLhyphen"/>ning to convert their City into a heap of ruine and and diſſolution, and accordingly brought divers pieces of Ordnance, and with them made many ſhot againſt the gate of the City, which at laſt was by the continuall playing of the Ordnance layed open, but before that could be done, ſome ſhot not being rightly levelled, did beat downe part of the Lady <hi>Hales</hi> houſe in white Fryers, ſo that the Lady, and old mother <hi>Iohnſon</hi> who had laid Bed<g ref="char:EOLhyphen"/>ridden 5 yeares before, in a place called the tower, adjoy<g ref="char:EOLhyphen"/>ning to white friers, were both killed, in this great affright and amazement, the thundering noyſe of the Cannons made the Citizens full of courage and reſolution, and as it often happens that extremity of danger doth neceſſitate the wit to invent and put ſomewhat in execution, that may be advantageous to the preſent occaſion, ſothe City<g ref="char:EOLhyphen"/>zens of Coventry very fortunately to the great joy and admiration of all people well affected to the Parliaments partie, watching a fit and convenient opportunity to at<g ref="char:EOLhyphen"/>tempt their deſigne, when the Kings forces were retyred and expected nothing leſſe than that which happened, theſe reſolute Citizens of Coventry with one unami<g ref="char:EOLhyphen"/>nous conſent ſallyed and iſſued out of the towne, and be<g ref="char:EOLhyphen"/>haved themſelves in ſuch a valiant manner, that they com<g ref="char:EOLhyphen"/>pelled
+<pb n="5" facs="tcp:111163:4"/>
+                  <!-- PDF PAGE 112 -->the Kings forces to retire and forſake their Ord<g ref="char:EOLhyphen"/>nance, and ſo proſecuting their good ſucceſſe hitherto ſo proſperous unto them, they at laſt cleerd the Ordnance from all incumbrance, and tooke 2 of them into their own poſſeſſion, whereby the Kings intents for the battring of the City of Coventry, were altogether diſappointed, and beſides the Citizens thus valiantly and fortunately iſſu<g ref="char:EOLhyphen"/>ing out, moſt magnanimouſly performed their parts a<g ref="char:EOLhyphen"/>gainſt the Cavaleers, and encountring with them, gave them ſuch a violent onſet, that in ſhort time threeſcore and ten of them at leaſt were ſlaine, and the reſt that ſur<g ref="char:EOLhyphen"/>vive to doe more miſchiefe, were forced to notice, and ſave themſelves by flight; and thus the Citizens of Warwick have by their own valour, ſeconded with for<g ref="char:EOLhyphen"/>tunate ſucceſſe tooke <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pieces of Ordnance froth the King, and leſſened the cruell and inſolent number of the Cavaleers, whereby it appeares that a juſt cauſe, ſuch as the Parliament doth undertake, need not fear any ſtrength or oppoſition, for the juſtice of Heaven can not let it ſuffer, but will at laſt crown it with renowned victory, for <hi>magnaeſt veritas &amp; praevalebit,</hi> great is truth, and thoſe that ſtand in defence of the truth ſhall prevaile.</p>
+               <p>The City therefore of Coventry, being now ſome<g ref="char:EOLhyphen"/>what animated and encouraged by their fortunate taking of the Kings Ordnance, and the killing of 70 Cavaleers, with whom they viliantly encountred, doe now ſeeke fur<g ref="char:EOLhyphen"/>ther to improve their good ſucceſſe, and to prevent any ſecond attempt that may be made againſt them, not know<g ref="char:EOLhyphen"/>ing when they ſhall againe by the kings forces and the Cavaleers beeaſſaulted, they have therfore to prevent any ſecond violence, if the king ſhould plant any Ordnance againſt the City; being as they ſuppoſe as much diſcon<g ref="char:EOLhyphen"/>tented
+<pb n="6" facs="tcp:111163:5"/>
+                  <!-- PDF PAGE 113 -->as hee was at the firſt, whereupon the Citizens have reſolved to ſortify the City as much as they can, and for their better ſecurity, they have with much labour and induſtry raiſed a mud wall againſt Newgate, to dampe and daunt the ſhot if any ſhould hereafter be made againſt it, and they intend alſo to make the like) fortification of eartherne rampires to ſtrengthen the wals, they being very joyfull in regard of their late happy proceedings againſt the Kings undeſerved attempt, and the cruell Ca<g ref="char:EOLhyphen"/>valeers, and no doubt the Relation thereof, will be very gratefull and acceptable to all well affected people. And moreover if the Cavaleers ſhould hereafter appear again, and make another attempt to enter the City as they for<g ref="char:EOLhyphen"/>merly have done, they have continued a very pretty po<g ref="char:EOLhyphen"/>litiek meanes to diſappoint the inſolency of their mali<g ref="char:EOLhyphen"/>cious fury, for that they might hinder their paſſages, and plunder them at their comming into the City, they have brought forth their tables, cheſts, Stooles, and harrowes, and layd them in the ſtreet to prevent the horſe, if the Cavaleers ſhould oppoſe again unto the City.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
